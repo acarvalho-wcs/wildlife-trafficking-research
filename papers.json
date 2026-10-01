@@ -1,9 +1,40 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-09-22T09:58:00Z",
+  "updated_at": "2026-10-01T09:45:00Z",
   "source_site": "https://wildlife-research.wcs-associa-6434.chatgpt.site",
-  "count": 83,
+  "count": 84,
   "papers": [
+    {
+      "id": "doi-10.1590-1809-4422asoc01641vu29l29oa",
+      "year": 2026,
+      "topic_code": "governance",
+      "topic_pt": "Governança",
+      "topic_en": "Governance",
+      "topic_es": "Gobernanza",
+      "scope_code": "brazil",
+      "scope_pt": "Brasil",
+      "scope_en": "Brazil",
+      "scope_es": "Brasil",
+      "classification_code": "illegalities",
+      "classification_pt": "Tráfico / ilegalidades",
+      "classification_en": "Trafficking / illegalities",
+      "classification_es": "Tráfico / ilegalidades",
+      "title": "Characterization of wildlife trafficking seizures in a biodiversity hotspot in Brazil",
+      "authors": [
+        "José Rodolfo Wendt-Oliveira",
+        "Carla Letícia Gediel Rivero-Wendt",
+        "Alexandre de Matos Martins Pereira",
+        "Neiva Maria Robaldo Guedes"
+      ],
+      "journal": "Ambiente & Sociedade",
+      "citation": "29, e00164",
+      "description_pt": "Caracteriza apreensões de fauna silvestre em Mato Grosso do Sul a partir de 271 relatórios oficiais de PM, IBAMA e PRF entre 2017 e 2021. O estudo identifica padrões taxonômicos, geográficos e institucionais, destaca o papagaio-verdadeiro (Amazona aestiva), a concentração de apreensões em municípios do sudeste do estado e Campo Grande, e evidencia fragmentação e falta de integração entre bases de fiscalização.",
+      "description_en": "Characterizes wildlife seizures in Mato Grosso do Sul using 271 official reports from the State Military Police, IBAMA and PRF between 2017 and 2021. The study identifies taxonomic, geographic and institutional patterns, highlights the blue-fronted parrot (Amazona aestiva), concentrations of seizures in southeastern municipalities and Campo Grande, and the fragmentation and lack of integration among enforcement datasets.",
+      "description_es": "Caracteriza las incautaciones de fauna silvestre en Mato Grosso do Sul a partir de 271 informes oficiales de la Policía Militar estatal, IBAMA y PRF entre 2017 y 2021. El estudio identifica patrones taxonómicos, geográficos e institucionales, destaca al loro hablador (Amazona aestiva), la concentración de incautaciones en municipios del sudeste del estado y Campo Grande, y evidencia la fragmentación y falta de integración entre las bases de fiscalización.",
+      "doi": "10.1590/1809-4422asoc01641vu29L29OA",
+      "source_url": "https://doi.org/10.1590/1809-4422asoc01641vu29L29OA",
+      "added_at": "2026-10-01T09:45:00Z"
+    },
     {
       "id": "doi-10.1073-pnas.2525056123",
       "year": 2026,
