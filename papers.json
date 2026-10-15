@@ -1,8 +1,8 @@
 {
   "schema_version": "1.0",
-  "updated_at": "2026-10-10T14:13:00Z",
+  "updated_at": "2026-10-15T15:51:00-04:00",
   "source_site": "https://wildlife-research.wcs-associa-6434.chatgpt.site",
-  "count": 114,
+  "count": 115,
   "papers": [
     {
       "id": "doi-10.1590-1809-4422asoc01641vu29l29oa",
@@ -3494,12 +3494,51 @@
       "doi": "10.1186/s42522-025-00190-4",
       "source_url": "https://doi.org/10.1186/s42522-025-00190-4",
       "added_at": "2026-10-10T14:13:00Z"
+    },
+    {
+      "id": "doi-10.1002-ecs2.70782",
+      "year": 2026,
+      "topic_code": "impacts_conservation",
+      "topic_pt": "Impactos e conservação",
+      "topic_en": "Impacts and conservation",
+      "topic_es": "Impactos y conservación",
+      "scope_code": "latin_america",
+      "scope_pt": "América Latina",
+      "scope_en": "Latin America",
+      "scope_es": "América Latina",
+      "classification_code": "wildlife_trade_context",
+      "classification_pt": "Comércio de fauna · contexto",
+      "classification_en": "Wildlife trade · context",
+      "classification_es": "Comercio de fauna · contexto",
+      "title": "Mapping connectivity between important jaguar (Panthera onca) habitats in the Americas",
+      "authors": [
+        "Harshad Karandikar",
+        "Rafael Antelo",
+        "Melissa Arias",
+        "Valeria Boron",
+        "Allison Devlin",
+        "Bart J. Harmsen",
+        "Claire Kremen",
+        "Arthur Middleton",
+        "Sandra Petrone",
+        "Roberto Salom-Pérez",
+        "Fernando Tortato",
+        "Robin Naidoo"
+      ],
+      "journal": "Ecosphere",
+      "citation": "",
+      "description_pt": "Analisa mais de 134 mil localizações GPS de 99 onças-pintadas adultas de cinco países para modelar a conectividade ecológica entre habitats das Américas. Identifica corredores potenciais e áreas prioritárias para conservação, inclusive na Amazônia e no eixo Bolívia–Pantanal–Paraguai–Argentina. Trata de deslocamentos naturais, não de rotas documentadas de tráfico; a ligação com comércio de fauna é apenas contextual.",
+      "description_en": "Analyzes over 134,000 GPS locations from 99 adult jaguars across five countries to model ecological connectivity among habitats in the Americas. Identifies potential corridors and conservation priorities, including the Amazon and the Bolivia–Pantanal–Paraguay–Argentina landscape. It concerns natural animal movement, not documented trafficking routes; relevance to wildlife trade is contextual only.",
+      "description_es": "Analiza más de 134.000 localizaciones GPS de 99 jaguares adultos en cinco países para modelar la conectividad ecológica entre hábitats de las Américas. Identifica corredores potenciales y prioridades de conservación, incluida la Amazonía y el eje Bolivia–Pantanal–Paraguay–Argentina. Estudia movimientos naturales, no rutas documentadas de tráfico; su relevancia para el comercio de fauna es únicamente contextual.",
+      "doi": "10.1002/ecs2.70782",
+      "source_url": "https://doi.org/10.1002/ecs2.70782",
+      "added_at": "2026-10-15T15:51:00-04:00"
     }
   ],
   "last_manual_ingestion": {
-    "batch": "manual_research_batch_5_2026-09-22",
-    "added": 5,
-    "resulting_count": 83,
-    "updated_at": "2026-09-22T09:58:00Z"
+    "batch": "curated_science_2026-10-15",
+    "added": 1,
+    "resulting_count": 115,
+    "updated_at": "2026-10-15T15:51:00-04:00"
   }
 }
